@@ -7,8 +7,8 @@ const MindsDB = require("mindsdb-js-sdk");
 exports.sleepModel = catchAsyncError(async(req,res,next)=>{
     const {age,stress,qualityOfSleep , duration , gender}=req.body;
     await MindsDB.default.connect({
-        user: "akashsharma2002@gmail.com",
-        password: "MindsDB@29"
+        user: process.env.DB_EMAIL,
+        password: process.env.DB_PSWD
     })
 
     if(qualityOfSleep <5){
@@ -70,8 +70,8 @@ exports.kidneyModel = catchAsyncError(async(req,res,next)=>{
     const {age,smoke,sex , alcohol , diabetic,sleepTime}=req.body;
     console.log(req.body)
     await MindsDB.default.connect({
-        user: "akashsharma2002@gmail.com",
-        password: "MindsDB@29"
+            user: process.env.DB_EMAIL,
+        password: process.env.DB_PSWD
     })
 
 
@@ -100,8 +100,8 @@ res.status(200).json({
 exports.heartModel = catchAsyncError(async(req,res,next)=>{
     const {age,smoke,sex , alcohol , diabetic,sleepTime}=req.body;
     await MindsDB.default.connect({
-        user: "akashsharma2002@gmail.com",
-        password: "MindsDB@29"
+            user: process.env.DB_EMAIL,
+        password: process.env.DB_PSWD
     })
 
 
