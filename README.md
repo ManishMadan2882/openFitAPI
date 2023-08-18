@@ -1,17 +1,3 @@
-# API guidelines
-* Send Request in the following format
-```
-{
-    query : "Hi, How is the weather today"
-}
-```
-* The Expected Response should be the the following JSON format
-
-```
-{
-    "output": "I'm sorry, but as an AI, I do not have the ability to determine the current weather. Please check a reliable source such as a weather website or app for the most accurate and up-to-date information on the weather in your area."
-}
-```
 # BlazeFit
 Welcome to BlazeFit - Your Ultimate Fitness and Wellness Companion!
 
@@ -39,12 +25,12 @@ Enjoy a smooth user experience while accessing various features of the app.
 
 ## Installation and Setup
 * Front-end (Flutter)
-Clone this repository: git clone https://github.com/yourusername/blazefit-app.git
+Clone the frontend repository.
 Navigate to the blazefit-app directory: cd blazefit-app
 Install dependencies: flutter pub get
 Run the app: flutter run
 * Back-end (Node.js)
-Clone the backend repository: git clone https://github.com/yourusername/blazefit-backend.git
+Clone this backend repository
 Move to the blazefit-backend directory: cd blazefit-backend
 Install dependencies: npm install
 Set up your database (e.g., MongoDB) and update the configuration in config.js.
@@ -55,6 +41,11 @@ Start the server: ```node server.js```
 To integrate the OpenAI chatbot into BlazeFit, you'll need to sign up for an OpenAI API key and replace the placeholder key in the code with your actual key. Refer to OpenAI's documentation for details on how to set up the API: OpenAI API Documentation
 
 * MindsDB Model
-The MindsDB regression model for sleep disorder tracking should be trained and deployed separately. You can find instructions on how to use MindsDB in their documentation: MindsDB Documentation
+The MindsDB regression model for sleep disorder tracking should be trained and deployed separately. You can find instructions on how to use MindsDB in their documentation: MindsDB Documentation.
+![WhatsApp Image 2023-08-18 at 10 16 53 AM](https://github.com/ManishMadan2882/openFitAPI/assets/96079232/8d86e028-dea0-44f5-9c64-92f47126f720)
+![WhatsApp Image 2023-08-18 at 10 16 52 AM](https://github.com/ManishMadan2882/openFitAPI/assets/96079232/c2ec2f35-b6cf-4873-a896-46489f1f85b5)
+![WhatsApp Image 2023-08-18 at 10 16 51 AM (1)]![WhatsApp Image 2023-08-18 at 10 16 54 AM](https://github.com/ManishMadan2882/openFitAPI/assets/96079232/fc2015d8-6220-4965-8459-5eeb9bfc6ec3)
+(https://github.com/ManishMadan2882/openFitAPI/assets/96079232/4c1c6ee3-5076-44c0-bcae-065e00b722e9)
+
 
 Stay fit, stay healthy with BlazeFit! 🏋️‍♂️💤🤖
