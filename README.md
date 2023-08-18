@@ -42,10 +42,12 @@ To integrate the OpenAI chatbot into BlazeFit, you'll need to sign up for an Ope
 
 * MindsDB Model
 The MindsDB regression model for sleep disorder tracking should be trained and deployed separately. You can find instructions on how to use MindsDB in their documentation: MindsDB Documentation.
-![WhatsApp Image 2023-08-18 at 10 16 53 AM](https://github.com/ManishMadan2882/openFitAPI/assets/96079232/8d86e028-dea0-44f5-9c64-92f47126f720)
-![WhatsApp Image 2023-08-18 at 10 16 52 AM](https://github.com/ManishMadan2882/openFitAPI/assets/96079232/c2ec2f35-b6cf-4873-a896-46489f1f85b5)
-![WhatsApp Image 2023-08-18 at 10 16 51 AM (1)]![WhatsApp Image 2023-08-18 at 10 16 54 AM](https://github.com/ManishMadan2882/openFitAPI/assets/96079232/fc2015d8-6220-4965-8459-5eeb9bfc6ec3)
-(https://github.com/ManishMadan2882/openFitAPI/assets/96079232/4c1c6ee3-5076-44c0-bcae-065e00b722e9)
+<img src="https://github.com/ManishMadan2882/openFitAPI/assets/96079232/8d86e028-dea0-44f5-9c64-92f47126f720" width="400"></img>
+<img src="https://github.com/ManishMadan2882/openFitAPI/assets/96079232/4c1c6ee3-5076-44c0-bcae-065e00b722e9" width="400"></img>
+<img src="https://github.com/ManishMadan2882/openFitAPI/assets/96079232/c2ec2f35-b6cf-4873-a896-46489f1f85b5" width="400"></img>
+<img src="https://github.com/ManishMadan2882/openFitAPI/assets/96079232/fc2015d8-6220-4965-8459-5eeb9bfc6ec3" width="400"></img>
+
+
 
 
 Stay fit, stay healthy with BlazeFit! 🏋️‍♂️💤🤖
