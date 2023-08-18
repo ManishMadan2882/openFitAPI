@@ -46,6 +46,9 @@ The MindsDB regression model for sleep disorder tracking should be trained and d
 <img src="https://github.com/ManishMadan2882/openFitAPI/assets/96079232/4c1c6ee3-5076-44c0-bcae-065e00b722e9" width="400"></img>
 <img src="https://github.com/ManishMadan2882/openFitAPI/assets/96079232/c2ec2f35-b6cf-4873-a896-46489f1f85b5" width="400"></img>
 <img src="https://github.com/ManishMadan2882/openFitAPI/assets/96079232/fc2015d8-6220-4965-8459-5eeb9bfc6ec3" width="400"></img>
+<img width="400" src="https://github.com/ManishMadan2882/openFitAPI/assets/96079232/e3241b3d-62ba-4822-a739-996c47408434"></img>
+
+
 
 
 
